@@ -1,0 +1,40 @@
+/* Body */
+
+body {
+  background-image: url("../imgs/fondo.jpg");
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  padding: 100px;
+}
+
+/* Formulario */
+
+#preview {
+  height: 250px;
+  background-image: url(../imgs/lion.svg);
+  background-position: 50% 20%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* Tabla de Animales */
+
+#Animales {
+  height: 100%;
+}
+
+.bg-h {
+  transition: 600ms;
+}
+
+.bg-h:hover {
+  opacity: .95 !important;
+}
+
+.participante {
+  width: 10rem;
+  height: 200px;
+
+}
