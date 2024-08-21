@@ -32,7 +32,7 @@ git clone https://github.com/oscmunozb/animales_salvajes.git
 ```
 2. Navega al directorio del proyecto:
 ```bash
-cd datos_usuarios
+cd animales_salvajes
 ```
 3. Si estás usando VS Code, puedes abrir el proyecto ejecutando:
 ```bash
